@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://gabby-oval-183.notion.site/91d7e2e727a84575a8c3bdbb41cac0b1" target="_blank"><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://gabby-oval-183.notion.site/91d7e2e727a84575a8c3bdbb41cac0b1" target="_blank"><img src="https://img.shields.io/badge/#000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
 
